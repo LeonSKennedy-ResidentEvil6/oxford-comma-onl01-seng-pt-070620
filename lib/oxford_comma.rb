@@ -4,5 +4,3 @@ def oxford_comma(array)
   array.join(', ')
 end
 
-  list[-1] = "and " + list[-1]
-  list.join(', ')
